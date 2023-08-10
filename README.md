@@ -1,14 +1,30 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://AkshayRajSingh.io)
 <h1 align="center">Hi 👋, I'm Akshay Raj Singh Anguwala</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <h3 align="center">A passionate Full Stack Developer and Aspiring Software Development Engineer & AI Enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakshayrajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="aakshayrajsingh" /> </p>
+- 🔭 I’m currently working on **React JS and AI projects**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakshayrajsingh" alt="aakshayrajsingh" /></a> </p>
+- 🌱 I’m currently learning **React and Swift**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-flame-alpha.vercel.app/](https://personal-portfolio-flame-alpha.vercel.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@rajsinghakshay28](https://medium.com/@rajsinghakshay28)
+
+- 💬 Ask me about **cpp**
+
+- 📫 How to reach me **rajsinghakshay28@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajsinghakshay16012000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajsinghakshay16012000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/akshayrajsingh16012000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akshayrajsingh16012000" height="30" width="40" /></a>
+<a href="https://medium.com/@rajsinghakshay28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajsinghakshay28" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/rajsinghakshay28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajsinghakshay28/" height="30" width="40" /></a>
 </p>
 
