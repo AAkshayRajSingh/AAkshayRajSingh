@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Akshay Raj Singh](https://github.com/AAkshayRajSingh) 👨‍💻
 
-<img align="right" alt="Akshay | LinkedIn" width="450px" src="https://64.media.tumblr.com/tumblr_mbv04nBvai1qg6rkio1_500.gifv" />
+<img align="right" alt="Akshay | LinkedIn" width="450px" src="[https://64.media.tumblr.com/tumblr_mbv04nBvai1qg6rkio1_500.gifv](https://64.media.tumblr.com/f2b6f4ffa37ed813c387f9feb9fe05c1/f418fc973795d2f7-b3/s2048x3072/33dd92e6398e3e9bd0b1975eab3994f5562e0992.gifv)" />
 
 ## I'm a Student, Developer, Competitive Programmer, and Open Source Enthusiast!!
 
