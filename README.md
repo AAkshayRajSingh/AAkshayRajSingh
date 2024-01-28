@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rajsinghakshay28](https://medium.com/@rajsinghakshay28)
 
-- 💬 Ask me about **cpp**
+- 💬 Ask me about **cpp,REACT JS,SQL,PHP**
 
 - 📫 How to reach me **rajsinghakshay28@gmail.com**
 
